@@ -1,8 +1,9 @@
 #include<stdio.h>
 #include<conio.h>
-main()
+int main()
 {
 printf("one\t\tTwo");
 printf("\n\tThree");
 printf("\nfour\tfive");
+return 0;
 }
