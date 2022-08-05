@@ -3,7 +3,7 @@
 int main()
 {
 int principal,rate,time,SI;
-printf("enter principal\nrate\time");
+printf("enter principal\nrate\ntime");
 scanf("%d%d%d",&principal,&rate,&time);
 SI=(principal*rate*time)/100;
 printf("SI : %d",SI); 
