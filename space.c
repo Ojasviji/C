@@ -4,5 +4,5 @@ main()
 {
 printf("one\t\tTwo");
 printf("\n\tThree");
-printf("\nfour\t\tfive");
+printf("\nfour\tfive");
 }
