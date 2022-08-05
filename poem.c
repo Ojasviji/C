@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+printf("line1");
+printf("\nline2");
+printf("\nline3");
+printf("\nline4");
+printf("\nline5");
+printf("\nline6");
+}
